@@ -11,6 +11,7 @@ IDK
 on any server or file system
 
 ## How To Contribute
+please fork this repository then issue pull request for review
 
 ### Copyright
 
