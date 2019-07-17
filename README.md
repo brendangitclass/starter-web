@@ -11,3 +11,7 @@ IDK
 on any server or file system
 
 ## How To Contribute
+
+### Copyright
+
+2014 
