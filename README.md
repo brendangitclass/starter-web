@@ -5,7 +5,9 @@ This is a simple website project
 yeah whatever
 
 ## Purpose
+IDK
 
 ## Deployment
+on any server or file system
 
 ## How To Contribute
